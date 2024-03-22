@@ -1,0 +1,15 @@
+La manera de ejecutar el script es usando el comando python Tarea.py 
+Una vez ejecutando el comando el programa pedira que proporciones la ruta del directorio donde se buscaran los archivos de la siguiente manera 'Enter the directory path:' 
+y se debera poner la ruta, por ejemplo: '/home/kali/Documents/PruebaEnv/'
+Las bibliotecas a utilizar son las siguientes>
+et-xmlfile==1.1.0
+lxml==5.1.0
+openpyxl==3.1.2
+pillow==10.2.0
+PyPDF2==3.0.1
+python-docx==1.1.0
+typing_extensions==4.10.0
+Se deberan ejecutar los siguentes comandos para instalar las dependencias:
+pip install PyPDF2
+pip install python-docx 
+pip install openpyxl
